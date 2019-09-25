@@ -6,3 +6,34 @@ The raw dataset provided contains redundant and null value information that need
 The tables and the primary keys are generated. The data is then uploaded using MySQL query.This ensures that the dataset is populated and ready for querying.
 
 System was developed and unit testing was conducted while developing each of the components required.
+
+
+This is how the implementation architecture looks like for Front-End:
+
+![Architecture Image](FrontEndImpl.PNG "Front Page")
+
+And, these are some screenshots of how the implementation looks like:
+
+>The Home Page
+
+![Home Image](Home.PNG "Home")
+
+>A Director Search
+
+![A Director Search](director.PNG "Director Search")
+
+>A Search for Action Movies List with Rating > 7
+
+![Movie List Search](search.PNG "Movie List Search")
+
+>Screenshot of some of the Resulting Movie List
+
+![Search Results](searchResults2.PNG "Search Results")
+
+>A Similar Search for TV Series
+
+![TV Series Search](tvSeries.PNG "TV Series Search")
+
+>The resulting Seasons and count of Episodes
+
+![TV Search Results](tvSeriesResults.PNG "TV Search Results")
