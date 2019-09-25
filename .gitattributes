@@ -1,4 +1,4 @@
-*linguist-vendored
+* linguist-vendored
 *.py linguist-detectable=true
 *.sql linguist-detectable=true
 *.php linguist-detectable=true
